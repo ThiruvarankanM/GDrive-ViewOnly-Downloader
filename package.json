@@ -1,0 +1,15 @@
+{
+  "name": "gdrive-viewonly-downloader",
+  "version": "1.0.0",
+  "description": "Download Google Drive view-only videos from the terminal",
+  "main": "dl.mjs",
+  "type": "module",
+  "scripts": {
+    "dl": "node dl.mjs"
+  },
+  "keywords": ["google-drive", "view-only", "downloader", "playwright"],
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}

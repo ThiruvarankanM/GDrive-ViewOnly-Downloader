@@ -1,0 +1,4 @@
+node_modules/
+.browser-data/
+_tmp_*
+*.json.tmp
